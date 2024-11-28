@@ -1,4 +1,4 @@
-# Initial commit
+# Desription
 
 Репозиторий для разбора статьи Learning-Rate-Free Learning by D-Adaptation
 
